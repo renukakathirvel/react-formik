@@ -23,7 +23,7 @@ Formik: Form library for React applications, used for form validations.
 CSS: Styling the application for responsive design.
 Installation
 Clone the Repository
-git clone https://github.com/RAJKUMAR-35/React-Formik-Library-Management-System
+git clone https://github.com/renukakathirvel/react-formik/tree/main/formik-task
 Navigate to the project directory:
 cd react-formik
 cd formik-task:
